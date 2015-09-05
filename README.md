@@ -4,7 +4,7 @@
 
 The HTML structure is the following:
 
-`
+```
 <div class="tabs">
     <div class="tab">
         <h3 class="tab-header">Tab 1</h3>
@@ -16,4 +16,4 @@ The HTML structure is the following:
         <div class="tab-text"></div>
     </div>
 </div>
-`
+```
