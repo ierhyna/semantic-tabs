@@ -7,6 +7,7 @@ function changeTabs() {
 
     var tabHeader = document.getElementsByClassName('tab-header');
     var tabText = document.getElementsByClassName('tab-text');
+    var testVariable;
 
     // do the first tab active
     tabHeader[0].classList.add('active');
